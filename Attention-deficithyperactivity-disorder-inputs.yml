@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/attentiondeficithyperactivity-disorder-adhd---primary.py
+inputModule3:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-childhood---primary.py
+inputModule4:
+  class: File
+  path: python/attention---primary.py
+inputModule5:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-conduct---primary.py
+inputModule6:
+  class: File
+  path: python/other-attention-deficithyperactivity-disorder-adhd---primary.py
+inputModule7:
+  class: File
+  path: python/hyperkinetic-attention-deficithyperactivity-disorder-adhd---primary.py
+inputModule8:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-perception---primary.py
+inputModule9:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-control---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
